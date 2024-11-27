@@ -1,4 +1,4 @@
-# Building a Practical LLM-Powered Solution with OpenAI
+# Practical LLM-Powered Solution with OpenAI
 ***
 An OpenAI-powered LLM model that scrapes web pages based on user and system prompts.
 
@@ -12,7 +12,8 @@ The project integrates essential libraries, such as openai, requests, and Beauti
     ├── .gitignore          <- Includes files and folders that we don't want to control
     |
     ├── images              <- Images for use in this project
-    │   └── web-scraping.png   <- Web scraping image
+    │   ├── example-netflix.png     <- Result example
+    │   └── web-scraping.png        <- Web scraping image
     |
     ├── main.ipynb          <- Main jupyter file that needs to be run
     |
